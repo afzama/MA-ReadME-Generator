@@ -15,7 +15,7 @@ Begin with the following three easy steps:
 ![alt text](assets/OpenIntegratedTerminalSC.jpeg)
 
 ## Usage (insert video here)
-
+https://watch.screencastify.com/v/0XXti1BAPvvUxiMQFNSr
 
 ## Reporting Issues
 To report any issues when running application, email maria.binte.afzal@gmail.com 
